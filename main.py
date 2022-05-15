@@ -13,7 +13,7 @@ from PIL import Image
 START = "2015-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 
-image = Image.open('photo.jpg')
+# image = Image.open('photo.jpg')
 # st.image(image, caption='Forecasting stock price')
 
 st.title('Forecasting Stock Price')

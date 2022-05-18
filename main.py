@@ -24,7 +24,7 @@ st.markdown(
     'day or time there will be no direct prices shown on the reult because thats not how stock market works use '
     'your own sense and knowledge before using the app it will show the prediction upto 4 years with high '
     'accurracy there are so so so many factors that can affect the stock prices stock prices changes every second '
-    'and if you are thinking it will show perfect number then its not prediction its insider trading.')
+    'and if you are thinking it will show perfect number then its not prediction .')
 
 stocks = ('GOOG', 'AAPL', 'MSFT', 'GME')
 default_stock = 'AAPL'

@@ -147,7 +147,7 @@ def test_features():
 
 test_features()
 
-st.caption("open souce under GNU public license")
+st.caption("© 2021 - 2022 Forecasting Stock Price - All Rights Reserved.")
 
 
 # Test features

@@ -58,7 +58,7 @@ data_load_state.text('Loading data... done!')
 st.subheader('Raw data')
 st.write(data.tail())
 
-st.subheader(f'summary of {selected_stock} stock last five years from 2015 - 2022')
+st.subheader(f'summary of {selected_stock} stock from 2015 - 2022')
 st.write(data.describe())
 
 
